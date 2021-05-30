@@ -1,6 +1,6 @@
 # WELCOME TO WIDS - ROME
 
-![Logo of WIDS-Rome Event](/images/wids-black-1line.jpg)
+![Logo of WIDS-Rome Event](/images/wids-2color-1line.jpg)
 
 Welcome to WIDS-ROME! Let's meet on June 24th, from 14 to 17 - CET, 2021 for this first edition of Women in Data Science - Rome.
 Join us for this session to discuss of what Data Science is really about, which are the latest trend in this field and have the possibility to discuss with experts in the field.
@@ -22,9 +22,9 @@ To participate, you just need to register at this link:
 
 ## ABOUT WIDS
 
-If you want to know more about upcoming regional events, please visti the website: https://www.widsconference.org/ww-regional-events-2021.html
+If you want to know more about upcoming regional events, please visit [wids page dedicated to regional events](https://www.widsconference.org/ww-regional-events-2021.html)
 
-If you are interested in all the activities organized by WIDS, please refer to: https://www.widsconference.org
+If you are interested in all the activities organized by WIDS, please refer to [wids homepage](https://www.widsconference.org)
 
 ## CONTACT
 
