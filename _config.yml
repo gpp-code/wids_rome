@@ -1,2 +1,5 @@
 theme: jekyll-theme-cayman
 title: [Welcome to Wids Rome Event]
+description: [Join us on June 24th, 2021, from 2 to 5.30 pm (CET)]
+github:
+  - site.github.agenda_url: https://github.com/gpp-code/wids_rome/agenda/WIDS_ROME_2021_AGENDA.pdf
