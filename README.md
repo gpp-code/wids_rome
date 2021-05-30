@@ -1,6 +1,6 @@
 # wids_rome
 
-![Logo of WIDS-Rome Event](https://github.com/gpp-code/wids-rome/images/wids-black-1line.jpg)
+![Logo of WIDS-Rome Event](https://github.com/gpp-code/wids_rome/images/wids-black-1line.jpg)
 
 Welcome to the WIDS rome event. Let's meet for on the 24th of June 2021 for the first edition of Women in Data Science in Rome.
 This event is organized in partnership with Università La Sapienza - Roma - and Women in Data Science.
