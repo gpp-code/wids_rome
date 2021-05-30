@@ -1,14 +1,30 @@
-# wids_rome
+# WELCOME TO WIDS - ROME
 
 ![Logo of WIDS-Rome Event](/images/wids-black-1line.jpg)
 
-Welcome to the WIDS rome event. Let's meet for on the 24th of June 2021 for the first edition of Women in Data Science in Rome.
-This event is organized in partnership with Università La Sapienza - Roma - and Women in Data Science.
+Welcome to WIDS-ROME! Let's meet on June 24th, 2021 for this first edition of Women in Data Science - Rome.
 
+## ABOUT
+WiDS Rome is an independent event that is organized by [IBM ITALIA](https://www.ibm.com/it-it) as part of the annual WiDS Worldwide conference organized by Stanford University and an estimated 150+ locations worldwide, which features outstanding women doing outstanding work in the field of data science.  All genders are invited to attend all WiDS Worldwide conference events.
 
-Please find belos the agenda and the Bio of the speakers.
+The WiDS Worldwide conference aims to inspire and educate data scientists worldwide, regardless of gender, and to support women in the field. This technical conference provides an opportunity to hear about the latest data science related research and applications in a number of domains, and connect with others in the field.
 
-Useful information: 
+## PARTNERS OF THE INITIATIVE
+This event is organized in partnership with Università La Sapienza, Università Roma Tre and IBM Women in Data Science.
 
-If you want to know more about WIDS, please visti the website: https://www.widsconference.org/ww-regional-events-2021.html
+## REGISTRATION AND VENUE
+The event will be held online on the 24th of June, from 14 to 17 - CET. 
+To participate, you just need to register at this link:
+[Register to the event](https://ibm.webex.com/ibm/onstage/g.php?MTID=ec7672f431a792a90d52e49ed0b8cccfa)
 
+## ABOUT WIDS
+
+If you want to know more about upcoming regional events, please visti the website: https://www.widsconference.org/ww-regional-events-2021.html
+
+If you are interested in all the activities organized by WIDS, please refer to: https://www.widsconference.org
+
+## CONTACT
+
+If you need more information or you are just curious and want to get in touch, please refer to giulia.plotti1@ibm.com and najla.sajid@it.ibm.com.
+
+We will be glad to support you!
