@@ -2,7 +2,10 @@
 
 ![Logo of WIDS-Rome Event](/images/wids-black-1line.jpg)
 
-Welcome to WIDS-ROME! Let's meet on June 24th, 2021 for this first edition of Women in Data Science - Rome.
+Welcome to WIDS-ROME! Let's meet on June 24th, from 14 to 17 - CET, 2021 for this first edition of Women in Data Science - Rome.
+Join us for this session to discuss of what Data Science is really about, which are the latest trend in this field and have the possibility to discuss with experts in the field.
+
+Here you can find the detailed agenda of the event.
 
 ## ABOUT
 WiDS Rome is an independent event that is organized by [IBM ITALIA](https://www.ibm.com/it-it) as part of the annual WiDS Worldwide conference organized by Stanford University and an estimated 150+ locations worldwide, which features outstanding women doing outstanding work in the field of data science.  All genders are invited to attend all WiDS Worldwide conference events.
