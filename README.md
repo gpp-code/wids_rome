@@ -27,6 +27,6 @@ If you are interested in all the activities organized by WIDS, please refer to [
 
 ## CONTACT
 
-If you need more information or you are just curious and want to get in touch, please refer to giulia.plotti1@ibm.com and najla.sajid@it.ibm.com.
+If you need more information or you are just curious and want to get in touch, please refer to giulia.plotti1@ibm.com and najla.said@it.ibm.com.
 
 We will be glad to support you!
